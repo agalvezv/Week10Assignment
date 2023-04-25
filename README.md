@@ -7,9 +7,9 @@ Objective: Create a honeynet using MHN-Admin. Present your findings as if you we
 
 ### MHN-Admin Deployment (Required)
 
-Summary: How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
+Summary: I used GCP in this situation. I followed the instructions provided via codepath. 
 
-<img src="mhn-admin.gif">
+<img src="https://raw.githubusercontent.com/agalvezv/Week10Assignment/main/goodcloud.jpg">
 
 ### Dionaea Honeypot Deployment (Required)
 
